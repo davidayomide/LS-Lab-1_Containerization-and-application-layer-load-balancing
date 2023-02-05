@@ -1,7 +1,5 @@
 # LS Lab 1: Containerization and application layer load balancing
 
-NAME: Shoyemi Ayomide
-
 # **Task 1: Get familiar with Docker Engine**
 
 <aside>
